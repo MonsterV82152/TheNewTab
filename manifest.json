@@ -16,10 +16,10 @@
         "storage"
     ],
     "icons": {
-        "48": "icon.svg",
-        "128": "icon.svg"
+        "48": "icons8-quote-50.png",
+        "128": "icons8-quote-50.png"
     },
     "action": {
-        "default_icon": "icon.svg"
+        "default_icon": "icons8-quote-50.png"
     }
 }
