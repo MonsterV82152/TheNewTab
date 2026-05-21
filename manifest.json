@@ -6,7 +6,13 @@
     "browser_specific_settings": {
         "gecko": {
             "id": "your-newtab@fuongz.github.io",
-            "strict_min_version": "109.0"
+            "strict_min_version": "109.0",
+            "data_collection_permissions": {
+                "required": [
+                    "none"
+                ],
+                "optional": []
+            }
         }
     },
     "chrome_url_overrides": {
@@ -16,8 +22,8 @@
         "storage"
     ],
     "icons": {
-        "48": "icons8-quote-50.png",
-        "128": "icons8-quote-50.png"
+        "48": "icons8-quote-48.png",
+        "128": "icons8-quote-48.png"
     },
     "action": {
         "default_icon": "icons8-quote-50.png"
